@@ -16,11 +16,12 @@
 
 | نقشه‌راه | منبع | وضعیت |
 |---|---|---|
-| 📚 [علوم کامپیوتر (Core CS)](core_cs/README.md) — ۹ فصل | [Core_computer_science.MD](../Core_computer_science.MD) | ✅ کامل |
+| 📚 [علوم کامپیوتر (Core CS)](core_cs/README.md) — ۱۳ فصل | [Core_computer_science.MD](../Core_computer_science.MD) | ✅ کامل |
 | 🤖 [هوش مصنوعی (AI Roadmap)](ai_roadmap/README.md) — ۹ فاز + مسیرهای شغلی | [AI_Roadmap.MD](../AI_Roadmap.MD) | 📝 ساختار آماده، محتوا در راه |
 
 ## پیشنهاد مسیر مطالعه
 
 1. از [Core CS](core_cs/README.md) شروع کن — فصل‌ها به ترتیب شماره طراحی شده‌اند
 2. هر فصل: سطح ۱ ← ۲ ← ۳، و در پایان خودت را با «چک‌لیست تسلط» و «سوالات مصاحبه» بسنج
-3. بعد از فصل ۹ (مهندسی AI)، برو سراغ [نقشه‌راه AI](ai_roadmap/README.md)
+3. فصل ۱۳ (طراحی سیستم) پایانیِ همه‌ی فصل‌هاست — آن را آخر بخوان
+4. بعد از Core CS، برو سراغ [نقشه‌راه AI](ai_roadmap/README.md)

@@ -25,6 +25,10 @@
 | ۷ | ابر و زیرساخت | کانتینرها و بندر 🚢 | [📗](07_cloud_infrastructure/level1_conceptual_fa.md) | [📘](07_cloud_infrastructure/level2_detailed_fa.md) | [📕](07_cloud_infrastructure/level3_technical_fa.md) |
 | ۸ | سیستم‌های توزیع‌شده | کلونی مورچه‌ها 🐜 | [📗](08_distributed_systems/level1_conceptual_fa.md) | [📘](08_distributed_systems/level2_detailed_fa.md) | [📕](08_distributed_systems/level3_technical_fa.md) |
 | ۹ | مهندسی هوش مصنوعی | بچه‌ی باهوش 🧒 | [📗](09_ai_engineering/level1_conceptual_fa.md) | [📘](09_ai_engineering/level2_detailed_fa.md) | [📕](09_ai_engineering/level3_technical_fa.md) |
+| ۱۰ | کامپیوتر چطور کار می‌کند | کارخانه‌ی کلیدهای چراغ 💡 | [📗](10_how_computers_work/level1_conceptual_fa.md) | [📘](10_how_computers_work/level2_detailed_fa.md) | [📕](10_how_computers_work/level3_technical_fa.md) |
+| ۱۱ | گیت و کنترل نسخه | دفترچه‌ی جادویی 📓 | [📗](11_git_version_control/level1_conceptual_fa.md) | [📘](11_git_version_control/level2_detailed_fa.md) | [📕](11_git_version_control/level3_technical_fa.md) |
+| ۱۲ | همروندی و Async | آشپزخانه‌ی مشترک 🍲 | [📗](12_concurrency_async/level1_conceptual_fa.md) | [📘](12_concurrency_async/level2_detailed_fa.md) | [📕](12_concurrency_async/level3_technical_fa.md) |
+| ۱۳ | طراحی سیستم (پایانی) | شهر عکس گربه‌ها 🏙️ | [📗](13_system_design/level1_conceptual_fa.md) | [📘](13_system_design/level2_detailed_fa.md) | [📕](13_system_design/level3_technical_fa.md) |
 
 > 🎁 قصه‌ی اولیه‌ی شبکه (نسخه‌ی اصلی): [00_original_story_fa.md](01_networking/00_original_story_fa.md)
 
@@ -52,7 +56,7 @@
 | ۱۴ | OAuth2 & JWT | فصل ۶ — امنیت |
 | ۱۵ | Docker | فصل ۷ — ابر و زیرساخت |
 | ۱۶ | Design Patterns | فصل ۴ — مهندسی نرم‌افزار |
-| ۱۷ | System Design | فصل ۴ (معماری) + فصل ۸ (مقیاس‌پذیری) |
+| ۱۷ | System Design | فصل ۱۳ — طراحی سیستم (پایانی) |
 | ۱۸ | Distributed Systems | فصل ۸ — سیستم‌های توزیع‌شده |
 | ۱۹ | Message Queues | فصل ۸ — سیستم‌های توزیع‌شده |
 | ۲۰ | Observability | فصل ۷ — ابر و زیرساخت |

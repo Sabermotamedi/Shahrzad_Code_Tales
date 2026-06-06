@@ -224,6 +224,101 @@
 
 ---
 
+# How Computers Work
+
+## Number Representation
+- Binary & Hex
+- Two's Complement
+- Integer Overflow
+- Floating Point (IEEE 754)
+
+## Text
+- ASCII
+- Unicode & UTF-8
+- Encoding Bugs (Mojibake)
+
+## Hardware
+- CPU (Fetch-Decode-Execute)
+- Memory Hierarchy
+- Cache Locality
+
+## How Code Runs
+- Compiler vs Interpreter
+- JIT
+- Bytecode
+- Garbage Collection
+
+---
+
+# Git & Version Control
+
+## Basics
+- Repo, Staging, Commits
+- Diff & Log
+- Undoing (restore, reset, revert)
+
+## Branching
+- Branches & Merging
+- Conflicts
+- Rebase vs Merge
+
+## Collaboration
+- Remotes (fetch, pull, push)
+- Pull Requests
+- Workflows (GitHub Flow, Git Flow, Trunk-Based)
+
+## Power Tools
+- Stash
+- Cherry-Pick
+- Bisect
+- Reflog
+
+---
+
+# Concurrency & Async
+
+## Foundations
+- Concurrency vs Parallelism
+- Race Conditions
+- Locks & Mutex
+- Deadlock
+
+## Models
+- Threads vs Processes
+- The GIL (Python)
+- I/O-bound vs CPU-bound
+
+## Async Programming
+- Event Loop
+- Coroutines & async/await
+- Task Queues
+- Thread Safety Patterns
+
+---
+
+# System Design (Capstone)
+
+## Method
+- Requirements Clarification
+- Back-of-Envelope Estimation
+- API Design
+- High-Level Architecture
+
+## Scaling Journey
+- Vertical vs Horizontal Scaling
+- Stateless Services
+- Replication & Sharding
+- Caching Layers
+- Async Processing with Queues
+
+## Classic Designs
+- URL Shortener
+- Photo-Sharing Service
+- Rate Limiter
+- News Feed (Push vs Pull)
+
+---
+
 # Top 20 Must-Know Topics
 
 1. HTTP/HTTPS
